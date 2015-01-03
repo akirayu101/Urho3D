@@ -20,14 +20,14 @@
 // THE SOFTWARE.
 //
 
-#include "Precompiled.h"
-#include "Context.h"
-#include "ObjectAnimation.h"
-#include "ValueAnimation.h"
-#include "ValueAnimationInfo.h"
-#include "XMLFile.h"
+#include "../Precompiled.h"
+#include "../Core/Context.h"
+#include "../Scene/ObjectAnimation.h"
+#include "../Scene/ValueAnimation.h"
+#include "../Scene/ValueAnimationInfo.h"
+#include "../Resource/XMLFile.h"
 
-#include "DebugNew.h"
+#include "../Container/DebugNew.h"
 
 namespace Urho3D
 {
